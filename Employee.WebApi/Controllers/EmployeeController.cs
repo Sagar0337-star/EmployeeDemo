@@ -41,11 +41,11 @@ namespace EmployeeWebAPI.Controllers
         }
 
 
-        [HttpGet("GetEmployeeById/{Id}")]
+        [HttpGet("GetEmployeeDetailsById/{Id}")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(EmployeeViewModel))]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<ActionResult<EmployeeViewModel>> GetEmployeeById(int Id)
+        public async Task<ActionResult<EmployeeViewModel>> GetEmployeeDetailsById(int Id)
         {
             try
             {
@@ -133,11 +133,6 @@ namespace EmployeeWebAPI.Controllers
 
                 return BadRequest("Record is not delete");
             }
-        }
-
-        public void M1()
-        {
-
         }
     }
 }
