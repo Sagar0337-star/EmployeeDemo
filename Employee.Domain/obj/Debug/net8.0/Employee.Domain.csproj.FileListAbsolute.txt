@@ -1,0 +1,17 @@
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.Domain.deps.json
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.Domain.runtimeconfig.json
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.Domain.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.Domain.pdb
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.COMMON.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\bin\Debug\net8.0\Employee.COMMON.pdb
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.csproj.AssemblyReference.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.AssemblyInfoInputs.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.AssemblyInfo.cs
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.csproj.CoreCompileInputs.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.9B5ED66D.Up2Date
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\refint\Employee.Domain.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.pdb
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\Employee.Domain.genruntimeconfig.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.Domain\obj\Debug\net8.0\ref\Employee.Domain.dll

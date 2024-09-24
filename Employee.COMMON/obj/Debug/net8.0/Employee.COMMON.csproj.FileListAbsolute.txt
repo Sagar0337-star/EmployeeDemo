@@ -1,0 +1,11 @@
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\bin\Debug\net8.0\Employee.COMMON.deps.json
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\bin\Debug\net8.0\Employee.COMMON.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\bin\Debug\net8.0\Employee.COMMON.pdb
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.AssemblyInfoInputs.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.AssemblyInfo.cs
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.csproj.CoreCompileInputs.cache
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\refint\Employee.COMMON.dll
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\Employee.COMMON.pdb
+F:\sagar\EmployeeWebAPIDemo\Employee\EmployeeDemo\Employee.COMMON\obj\Debug\net8.0\ref\Employee.COMMON.dll
